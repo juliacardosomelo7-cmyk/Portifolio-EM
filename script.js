@@ -4,9 +4,9 @@ link.addEventListener("click", function(e){
 
 e.preventDefault()
 
-const section = document.querySelector(this.getAttribute("href"))
+const target = document.querySelector(this.getAttribute("href"))
 
-section.scrollIntoView({
+target.scrollIntoView({
 behavior:"smooth"
 })
 
