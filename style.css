@@ -1,0 +1,59 @@
+body{
+margin:0;
+font-family:'Lora', serif;
+background:#f7f3ee;
+color:#333;
+}
+
+header{
+text-align:center;
+padding:50px 20px;
+background:#efe7de;
+}
+
+header h1{
+font-family:'Pinyon Script', cursive;
+font-size:60px;
+margin:0;
+}
+
+nav{
+text-align:center;
+background:white;
+padding:15px;
+box-shadow:0 2px 6px rgba(0,0,0,0.1);
+}
+
+nav a{
+margin:0 15px;
+text-decoration:none;
+color:#333;
+font-weight:500;
+}
+
+.card{
+max-width:900px;
+margin:40px auto;
+background:white;
+padding:30px;
+border-radius:10px;
+box-shadow:0 4px 10px rgba(0,0,0,0.1);
+}
+
+h2{
+margin-top:0;
+}
+
+.projeto{
+margin-top:20px;
+padding:15px;
+background:#fafafa;
+border-radius:8px;
+}
+
+footer{
+text-align:center;
+padding:30px;
+font-size:14px;
+color:#777;
+}
